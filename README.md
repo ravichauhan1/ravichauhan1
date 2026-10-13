@@ -11,15 +11,14 @@
 - 💻 Full Stack Developer working with the **MERN stack** (MongoDB, Express, React, Node.js) and **Next.js**
 - ⚡ I build everything from responsive user interfaces to REST APIs and database design
 - 🎨 I care about clean code, great UI and performance
-- 🚀 My portfolio is live at **[my-portfolio-tan-psi-43.vercel.app](https://my-portfolio-tan-psi-43.vercel.app)**
+- 🚀 My portfolio is live at **[ravi-x.vercel.app](https://ravi-x.vercel.app/)**
 - 📫 Open to full-stack and frontend opportunities
 
 ### Projects
 
 | Project | What it is | Stack |
 | ------- | ---------- | ----- |
-| **[Portfolio](https://github.com/ravichauhan1/my-portfolio)** | My personal portfolio website. [Live demo](https://my-portfolio-tan-psi-43.vercel.app) | Next.js, TypeScript, Tailwind CSS |
-| **[Equiwings](https://github.com/designxpo/equiwings)** | Web application built with TypeScript | TypeScript |
+| **[Portfolio](https://github.com/ravichauhan1/my-portfolio)** | My personal portfolio website. [Live demo](https://ravi-x.vercel.app/) | Next.js, TypeScript, Tailwind CSS | Web application built with TypeScript | TypeScript |
 
 ### Tech Stack
 
@@ -27,7 +26,7 @@
 
 **Backend** → Node.js · Express · REST APIs
 
-**Database** → MongoDB
+**Database** → MySQL · MongoDB · PostgreSQL
 
 **Tools** → Git · GitHub · Vercel · VS Code
 
