@@ -1,4 +1,4 @@
-# Hi, I'm Ravikishan Chauhan 👋
+# Hi, I'm Abhay Pratap Mishra 👋
 
 *Full Stack Developer building fast, scalable web apps with MERN and Next.js.*
 
